@@ -1,0 +1,91 @@
+.body{
+    margin: 0;
+    padding: 0;
+    width: 700px;
+   
+}
+
+
+.govt_heading{
+    width: 1900px;
+    background: rgba(133, 184, 218, 0.678);
+    display: flex;
+    gap: 1100px;
+}
+.govt_left{
+    display: flex;
+    gap: 20px;
+    
+}
+.govt_heading img{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    
+}
+.govt_text{
+    color:blue ;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.govt_text2 h4{
+    color: rgb(87, 87, 212);
+}
+.govt_text2 h5{
+    color: rgb(15, 15, 17);
+    font: bold;
+    font-size: 12px;
+}
+.menubar{
+    background: blue;
+    color: aliceblue;
+    height: 40px;
+    width: 1900px;
+}
+.ul{
+    display: flex;
+    gap: 200px;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.general_cadre{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.general_cadre button{
+     margin-left: 23px;
+     border-radius: 6px;
+     height: 20px;
+     width: 150px;
+     margin-top: 20px;
+     border: none;
+     font-weight: 700;
+     background-color: rgba(133, 184, 218, 0.678);
+}
+.personal_information{
+    background: rgba(133, 184, 218, 0.678);
+    margin-bottom: 40px;
+}
+.P_I_text{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+}
+.form_1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.f1_p1 input{
+    display: flex;
+    margin-left: 200px;
+}
+.f1_p2 input{
+    display: flex;
+    margin-right: 200px;
+}
+
+
+
