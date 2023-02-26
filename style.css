@@ -54,8 +54,8 @@
     justify-content: space-between;
     
 }
-.general_cadre button{
-     margin-left: 23px;
+.part-one button{
+     margin-left: 1700px;
      border-radius: 6px;
      height: 20px;
      width: 150px;
@@ -64,12 +64,20 @@
      font-weight: 700;
      background-color: rgba(133, 184, 218, 0.678);
 }
-.personal_information{
+.personal_information_container{
     background: rgba(133, 184, 218, 0.678);
+}
+.personal_information {
     margin-bottom: 40px;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
+    color: blue;
+    margin-top: px;
+}
 
+.section_one{
+    display: flex;
+    justify-content: space-between;
 }
 
 
